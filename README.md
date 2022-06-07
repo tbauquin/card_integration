@@ -50,5 +50,4 @@ I learned about CSS media queries which is a tool to adapt content to the size o
 ## Author
 
 - GutHub - [Thomas Bauquin](https://www.github.com/tbauquin)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
 - Twitter - [@ThmsB1](https://www.twitter.com/ThmsB1)
